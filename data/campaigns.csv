@@ -1,0 +1,9 @@
+campaign_id,channel,offer_type,start_date,end_date,campaign_cost
+1,Email,Cashback,2024-02-12,2024-02-25,67052
+2,App Push,Cashback,2024-03-19,2024-04-12,63686
+3,App Push,Dining,2024-01-30,2024-02-07,71785
+4,Web,Dining,2024-03-11,2024-04-04,109465
+5,SMS,Retail,2024-03-10,2024-04-07,46576
+6,Web,Travel,2024-02-18,2024-03-15,61601
+7,SMS,Cashback,2024-01-21,2024-02-10,92894
+8,Web,Travel,2024-02-20,2024-03-16,115119
