@@ -5,15 +5,15 @@ This project analyzes marketing campaign effectiveness using customer, interacti
 
 
 ## Tools & Technologies Used
-  Skill                         Used For                                     |
 
- SQL                        KPI computation, joins, segmentation queries 
- Python (Pandas, NumPy)     data processing & analytics                  
- Plotly                     business-style dashboard visualizations      
- Segmentation Logic         customer value grouping                      
- Business Insight Framing   recommendations for ROI lift                 
-
-
+| Category                     | Tools & Technologies                          |
+| ---------------------------- | --------------------------------------------- |
+| Programming & Analysis       | Python, Pandas, NumPy                         |
+| Querying & Data Aggregation  | SQL, SQLite (in Google Colab)                 |
+| Visualization & Dashboarding | Plotly (Interactive Business-Style Charts)    |
+| Development Environment      | Google Colab (Cloud-based Notebook Execution) |
+| Data Export & Outputs        | CSV, HTML Dashboard, PNG Visuals              |
+              
 
 ## Dashboard Highlights
 This project includes a **professional Plotly dashboard**, featuring:
